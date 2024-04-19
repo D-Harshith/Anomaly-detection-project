@@ -1,4 +1,4 @@
-# TK88603-Human action recognition
+
 
 ## Used Technologies
 
