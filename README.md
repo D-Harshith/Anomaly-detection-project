@@ -6,4 +6,4 @@
 * ### Backend - Python
 * ### Framework - Django
 * ### Frontend - HTML, CSS
-* ### Tools - Pycharm or VS code
+* ### Tools - VS code
